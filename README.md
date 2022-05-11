@@ -1,1 +1,5 @@
-# About-Me-201
+# Lab 2
+
+## Project Name: About Me
+
+## Author: Daniel Shiraishi
