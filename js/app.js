@@ -2,6 +2,7 @@
 
 console.log('Howdy Partner!');
 
+function q6() {
 let answerZero = prompt('What is your name?');
 
 alert('Welcome ' + answerZero + '!');
@@ -99,3 +100,7 @@ for (let t = 0; t < attemptsOne; t++) {
 alert('answer were tasty, red, and fruit');
 
 alert('score = '+ score + '/7');
+
+}
+
+q6();
